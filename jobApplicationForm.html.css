@@ -1,0 +1,15 @@
+body{
+    background-color: pink;
+}
+h2{
+    text-align: center;
+    border: solid white;
+}
+fieldset{
+    background-color: thistle;
+    border:solid white;
+}
+legend{
+    font-style: italic;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
